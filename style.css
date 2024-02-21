@@ -96,6 +96,10 @@ label {
     margin-bottom: 3.5vh;
 }
 
+#sign_in_button:active {
+    background-color: rgb(255, 187, 0)
+}
+
 #help1 {
     font-size:14px;
     margin-bottom:1vh;
@@ -133,6 +137,9 @@ label {
     border: 1px solid black;
     border-radius: 2px;
     width: 25vw;
+}
+.new_account:active {
+    background-color: rgb(141, 140, 140);
 }
 
 .bottom_section {
